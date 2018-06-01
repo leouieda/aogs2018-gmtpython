@@ -44,6 +44,19 @@ we will expand the library to cover the entire functionality of GMT. A first
 release is predicted for the late 2018. The latest documentation and source
 code can be accessed through the website http://www.gmtpython.xyz.
 
+## Notes
+
+I used the fonts Roboto Mono for code and Roboto for headings and text.
+All can be downloaded from [Google Fonts](https://fonts.google.com/).
+
+The poster was made using [Inkscape](https://inkscape.org/).
+The background image is linked in the SVG file so you'll need to have it
+together with the SVG poster.
+
+The QR codes were generated using [qrencode](https://github.com/fukuchi/libqrencode):
+
+    qrencode -t EPS -o qrcode.eps URL
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
@@ -55,4 +68,3 @@ href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
 
 All source code is distributed under the [BSD 3-clause
 License](https://opensource.org/licenses/BSD-3-Clause).
-
