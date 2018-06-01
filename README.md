@@ -4,8 +4,15 @@
 and
 [Paul Wessel](http://www.soest.hawaii.edu/wessel/)
 
-Abstract accepted for presentation at the Asia Oceania Geosciences Society
+Poster presented at the Asia Oceania Geosciences Society
 (AOGS) 2018 15th Annual Meeting at Honolulu, HI, USA.
+
+||Info|
+|---:|:---|
+|Abstract ID|SE28-A065|
+|Time|Thursday 2018-06-07 13:30 - 15:30|
+|Room|Ballroom B|
+|Download|doi:[10.6084/m9.figshare.6399944](https://doi.org/10.6084/m9.figshare.6399944)|
 
 
 ## Abstract
