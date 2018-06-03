@@ -2708,6 +2708,30 @@
          id="rect2019"
          style="fill:#f9f9f9;stroke:none;stroke-width:3.02436519;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2658">
+      <rect
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.00999515;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.75118065;stroke-opacity:1"
+         id="rect2660"
+         width="559.99286"
+         height="39.046291"
+         x="25.256308"
+         y="445.40738"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2658-1">
+      <rect
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.00999515;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.75118065;stroke-opacity:1"
+         id="rect2660-0"
+         width="559.99286"
+         height="39.046291"
+         x="25.256308"
+         y="445.40738"
+         ry="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2716,14 +2740,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="1737.5724"
-     inkscape:cy="1893.5804"
+     inkscape:zoom="0.5"
+     inkscape:cx="1477.4458"
+     inkscape:cy="521.89802"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-width="3200"
+     inkscape:window-height="1800"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -2736,7 +2760,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2757,14 +2781,14 @@
     <image
        sodipodi:absref="/home/leo/talk/aogs2018-gmtpython/poster-background.png"
        xlink:href="poster-background.png"
-       transform="translate(0,40.745853)"
-       y="-487.91309"
-       x="-5.5"
-       id="image4605"
-       preserveAspectRatio="none"
-       height="792.85071"
+       clip-path="url(#clipPath2017)"
        width="1200"
-       clip-path="url(#clipPath2017)" />
+       height="792.85071"
+       preserveAspectRatio="none"
+       id="image4605"
+       x="-5.5"
+       y="-487.91309"
+       transform="translate(0,40.745853)" />
     <rect
        style="display:inline;fill:#005c89;fill-opacity:1;stroke-width:1.09539807"
        id="rect6465"
@@ -2795,13 +2819,13 @@
      inkscape:label="foreground"
      style="display:inline">
     <rect
-       style="fill:#000c36;fill-opacity:1;stroke:none;stroke-width:0.28804314;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#141414;fill-opacity:0.94117647;stroke:none;stroke-width:0.29802123;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4612"
-       width="509.6149"
-       height="293.06754"
+       width="570"
+       height="280.48801"
        x="25.252747"
-       y="452.67972"
-       ry="9.2382536"
+       y="465.25925"
+       ry="9.2340145"
        rx="0" />
     <text
        xml:space="preserve"
@@ -4806,14 +4830,14 @@
        xml:space="preserve"><tspan
          id="tspan11934"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
-         y="274.6265"
+         y="274.87564"
          x="969.60535"
          sodipodi:role="line" /></text>
     <text
        id="text339624-9-3"
        y="215.85809"
        x="1008.9636"
-       style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:3.38666677px;line-height:0%;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:10.58333302px;line-height:0%;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.28222224"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
          y="215.85809"
@@ -4826,7 +4850,7 @@
          sodipodi:role="line"
          id="tspan8847">Simple and Pythonic interface</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
-         y="231.23434"
+         y="234.29073"
          x="1008.9636"
          sodipodi:role="line"
          id="tspan8849" /><tspan
@@ -4841,23 +4865,23 @@
          x="1008.9636"
          sodipodi:role="line">Integrate with Python software stack</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
-         y="254.1649"
+         y="257.22128"
          x="1008.9636"
          sodipodi:role="line"
          id="tspan8851" /><tspan
          id="tspan11938"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
-         y="254.1649"
+         y="257.22128"
          x="1008.9636"
          sodipodi:role="line" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
-         y="254.1649"
+         y="257.22128"
          x="1008.9636"
          sodipodi:role="line"
          id="tspan8838" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:3.38666677px;line-height:0%;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:10.58333302px;line-height:0%;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.28222224"
        x="955.08008"
        y="372.64023"
        id="text339624-6-2-06"><tspan
@@ -4865,41 +4889,41 @@
          id="tspan339626-2-7-2"
          x="955.08008"
          y="372.64023"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224">Early stages of development.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224">Early stages of development.</tspan><tspan
          sodipodi:role="line"
          x="955.08008"
-         y="385.86938"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
+         y="384.1055"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
          id="tspan8338">Open to contributions: code, ideas, bugs.</tspan><tspan
          sodipodi:role="line"
          x="955.08008"
-         y="399.09857"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
+         y="395.57077"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
          id="tspan11956">Anyone can contribute!</tspan><tspan
          sodipodi:role="line"
          x="955.08008"
-         y="412.32773"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
+         y="407.03607"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
          id="tspan8346">We'll guide you through the hard parts.</tspan><tspan
          sodipodi:role="line"
          x="955.08008"
-         y="425.55688"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
+         y="418.50134"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
          id="tspan8344">We have a Code of Conduct to keep you safe.</tspan><tspan
          sodipodi:role="line"
          x="955.08008"
-         y="438.78607"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
+         y="429.96661"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
          id="tspan12069">The project is open-source.</tspan><tspan
          sodipodi:role="line"
          x="955.08008"
-         y="443.16336"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
+         y="436.93399"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
          id="tspan11948" /><tspan
          sodipodi:role="line"
          x="955.08008"
-         y="443.16336"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
+         y="436.93399"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.17222214px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
          id="tspan11950" /></text>
     <g
        id="g8330"
@@ -4919,79 +4943,168 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:3.38666677px;line-height:0%;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.28222224"
-       x="49.31657"
-       y="486.34418"
+       style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:35.49277496px;line-height:0%;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.97000002;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.28394222"
+       x="45.252747"
+       y="508.40598"
        id="text339624-6-2-06-3"><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="486.34418"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
+         x="45.252747"
+         y="508.40598"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;opacity:0.92000002;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
          id="tspan11950-0"># GMT/Python was used generate the background for this poster</tspan><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="503.98306"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
-         id="tspan8454">import gmt</tspan><tspan
+         x="45.252747"
+         y="523.7558"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan8454"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#5fd7ff;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2733">import</tspan> gmt  <tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2727"># Load the GMT/Python library</tspan></tspan><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="521.62195"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
-         id="tspan8425">import pandas as pd</tspan><tspan
+         x="45.252747"
+         y="539.10565"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan8425"><tspan
+   style="font-weight:bold;fill:#5fd7ff;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2753">import</tspan> pandas <tspan
+   style="font-weight:bold;fill:#fce94f;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2755">as</tspan> pd  <tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2729"># Use pandas to read and store the data</tspan> </tspan><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="539.26086"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
-         id="tspan8429">data = pd.read_csv('data/pbo-velocity.csv')</tspan><tspan
+         x="45.252747"
+         y="554.45544"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan8429">data = pd.read_cs<tspan
+   style="font-weight:normal;stroke-width:0.28394222"
+   id="tspan2887">v(</tspan><tspan
+   style="font-weight:normal;fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2785">'data/pbo_gps_velocity.csv'</tspan><tspan
+   style="font-weight:normal;stroke-width:0.28394222"
+   id="tspan2889">)</tspan></tspan><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="556.89972"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
-         id="tspan8431">fig = gmt.Figure()</tspan><tspan
+         x="45.252747"
+         y="569.80524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan8445" /><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="574.53864"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
-         id="tspan8435">fig.grdimage('@earth_relief_05m', region='g', </tspan><tspan
+         x="45.252747"
+         y="569.80524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2591" /><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="592.17749"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
-         id="tspan8447">                         projection='G/-138/40/1000/30/40/-10/142/100/20i',</tspan><tspan
+         x="45.252747"
+         y="569.80524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2593" /><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="609.81641"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
-         id="tspan8437">                        ...)</tspan><tspan
+         x="45.252747"
+         y="569.80524"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2595">fig = gmt.Figure()  <tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2731"># Start a new figure</tspan></tspan><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="627.45526"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
-         id="tspan8441">fig.coast(land='#444444', resolution='i')</tspan><tspan
+         x="45.252747"
+         y="585.15509"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2597"># Plot an image of the builtin topography data with automatic hill-shading</tspan><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="645.09418"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
-         id="tspan8443">fig.velo(...)</tspan><tspan
+         x="45.252747"
+         y="600.50488"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2617">fig.grdimage(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2791">'@earth_relief_15s'</tspan>, projection=<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2793">'G-138/40/1000/20/40/-10/142/100/20i'</tspan>, </tspan><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="662.73303"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
-         id="tspan8445">fig.savefig('poster-background.png', dpi=...)</tspan><tspan
+         x="45.252747"
+         y="615.85474"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2603">             region=[<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#44aa00;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2815">-140</tspan>, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#44aa00;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2875">-110</tspan>, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#44aa00;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2877">20</tspan>, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#44aa00;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2879">60</tspan>], cmap=<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2795">'ocean'</tspan>, shading=<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2797">'+a120+nt1.5'</tspan>)</tspan><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="668.27625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
+         x="45.252747"
+         y="631.20453"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2605"># Fill in the continents with a gray color and don't plot lakes and rivers</tspan><tspan
+         sodipodi:role="line"
+         x="45.252747"
+         y="646.55432"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2607">fig.coast(land=<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2803">'#444444'</tspan>, resolution=<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2801">'i'</tspan>, area_thresh=<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2799">'0/0/1'</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         x="45.252747"
+         y="661.90417"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2609"># Plot the velocity as vectors given an azimuth and length</tspan><tspan
+         sodipodi:role="line"
+         x="45.252747"
+         y="677.25397"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2613">fig.plot(x=data.lon, y=data.lat, direction=(data.azimuth, data.velocity*<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#44aa00;stroke-width:0.28394222"
+   id="tspan2853">50</tspan>), </tspan><tspan
+         sodipodi:role="line"
+         x="45.252747"
+         y="692.60376"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2629">         style=<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2805">'V0.03i+e'</tspan>, color=<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2807">'#eeeeee'</tspan>, pen=<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2809">'thinnest,#eeeeee,solid'</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         x="45.252747"
+         y="707.95361"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2633"># Save the figure as a high-resolution transparent png file</tspan><tspan
+         sodipodi:role="line"
+         x="45.252747"
+         y="723.30341"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2615">fig.savefig(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2823">'poster-background.png'</tspan>, transparent=<tspan
+   style="font-weight:bold;fill:#5fd7ff;fill-opacity:1;stroke-width:0.28394222"
+   id="tspan2757">True</tspan>, dpi=<tspan
+   style="font-weight:300;fill:#44aa00;stroke-width:0.28394222;-inkscape-font-specification:'Roboto Mono Light';font-family:'Roboto Mono';font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan2811">1600</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         x="45.252747"
+         y="738.6532"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan8439" /><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="668.27625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
+         x="45.252747"
+         y="738.6532"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan8433" /><tspan
          sodipodi:role="line"
-         x="49.31657"
-         y="668.27625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28222224"
+         x="45.252747"
+         y="738.6532"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan8427" /></text>
     <text
        xml:space="preserve"
@@ -6658,7 +6771,7 @@
                sodipodi:role="line">Try it on your phone/tablet</tspan><tspan
                id="tspan8497"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222214px;line-height:1.60000002em;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#f9f9f9;fill-opacity:1;stroke-width:0.20750652px"
-               y="817.70215"
+               y="817.82782"
                x="495.01193"
                sodipodi:role="line">try.gmtpython.xyz</tspan></text>
         </g>
@@ -6682,7 +6795,7 @@
                sodipodi:role="line">Download this poster</tspan><tspan
                id="tspan8535"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222214px;line-height:1.60000002em;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#f9f9f9;fill-opacity:1;stroke-width:0.20750652px"
-               y="817.64069"
+               y="817.76636"
                x="722.0354"
                sodipodi:role="line">doi.org/10.6084/m9.figshare.6399944</tspan></text>
         </g>
@@ -8816,7 +8929,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="825.80255"
        y="195.01741"
        id="text8780"><tspan
@@ -8824,10 +8937,10 @@
          id="tspan8778"
          x="825.80255"
          y="195.01741"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#444444;fill-opacity:1;stroke-width:0.26458332;">The Project</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#444444;fill-opacity:1;stroke-width:0.26458332">The Project</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="1046.6772"
        y="196.16246"
        id="text8784"><tspan
@@ -8835,10 +8948,10 @@
          id="tspan8782"
          x="1046.6772"
          y="196.16246"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#444444;fill-opacity:1;stroke-width:0.26458332;">Goals</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#444444;fill-opacity:1;stroke-width:0.26458332">Goals</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="1010.816"
        y="350.99536"
        id="text8788"><tspan
@@ -8846,10 +8959,10 @@
          id="tspan8786"
          x="1010.816"
          y="350.99536"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#444444;fill-opacity:1;stroke-width:0.26458332;">Getting Involved</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#444444;fill-opacity:1;stroke-width:0.26458332">Getting Involved</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:3.38666677px;line-height:0%;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+       style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:10.58333302px;line-height:0%;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.28222224"
        x="517.43854"
        y="-279.38242"
        id="text8796"><tspan
@@ -8875,7 +8988,7 @@
          id="tspan8807">Recent versions of GMT also provide an Application Programming Interface (API) that allows access to the core functionality from other programming languages, </tspan><tspan
          sodipodi:role="line"
          x="517.43854"
-         y="-226.46576"
+         y="-226.46574"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
          id="tspan8809">potentially expanding the reach of GMT far beyond the current user base. </tspan><tspan
          sodipodi:role="line"
@@ -8923,5 +9036,63 @@
          y="-107.40325"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#444444;fill-opacity:1;stroke-width:0.28222224"
          id="tspan8827">These features will help make GMT more accessible to students and professional geoscientists who lack an extensive background in Unix tools and shell scripting.</tspan></text>
-  </g>
+    <g
+       id="g2920"
+       transform="translate(0,-9.998016)">
+      <rect
+         transform="matrix(1.0178701,0,0,1.0001788,-0.45133332,10.716973)"
+         clip-path="url(#clipPath2658)"
+         rx="0"
+         ry="9.260417"
+         y="464.45724"
+         x="25.252747"
+         height="281.29001"
+         width="560"
+         id="rect4612-3"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29581746;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2637"
+         y="488.09689"
+         x="246.52376"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';fill:#666666;fill-opacity:1;stroke-width:0.26458332;"
+           y="488.09689"
+           x="246.52376"
+           id="tspan2635"
+           sodipodi:role="line">poster-background.py</tspan></text>
+      <g
+         transform="translate(16.40417,7.3005678)"
+         id="g2696">
+        <circle
+           style="opacity:1;fill:#ff5555;fill-opacity:1;stroke-width:0.75009984"
+           id="path2662"
+           cx="568.5105"
+           cy="477.9567"
+           r="3" />
+        <circle
+           style="display:inline;opacity:1;fill:#338000;fill-opacity:1;stroke-width:0.75009984"
+           id="path2662-1"
+           cx="546.81458"
+           cy="477.9567"
+           r="3" />
+        <circle
+           style="display:inline;opacity:1;fill:#ffcc00;fill-opacity:1;stroke-width:0.75009984"
+           id="path2662-9"
+           cx="557.66254"
+           cy="477.9567"
+           r="3" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2719"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Roboto;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Roboto;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion2721"><rect
+           id="rect2723"
+           width="492"
+           height="96"
+           x="1206"
+           y="1916.5825" /></flowRegion><flowPara
+         id="flowPara2725"></flowPara></flowRoot>  </g>
 </svg>
