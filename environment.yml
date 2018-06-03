@@ -1,0 +1,18 @@
+name: aogs2018-gmt
+channels:
+    - conda-forge
+    - conda-forge/label/dev
+    - defaults
+dependencies:
+    - python=3.6
+    - pip
+    - gmt=6.0.0a14
+    - numpy
+    - pandas
+    - xarray
+    - packaging
+    - ipython
+    - matplotlib
+    - jupyter
+    - pip:
+        - https://github.com/GenericMappingTools/gmt-python/archive/cbeb0697792d8d7e91fb6ff7f359b4ef73314035.zip
