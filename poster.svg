@@ -2740,18 +2740,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="3547.8723"
-     inkscape:cy="1845.2397"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="2564.6867"
+     inkscape:cy="1512.446"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="3200"
-     inkscape:window-height="1800"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1576"
+     inkscape:window-height="1774"
+     inkscape:window-x="1609"
+     inkscape:window-y="11"
      inkscape:window-maximized="0"
-     units="cm" />
+     units="cm"
+     inkscape:lockguides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -2760,7 +2761,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2781,14 +2782,14 @@
     <image
        sodipodi:absref="/home/leo/talk/aogs2018-gmtpython/poster-background.png"
        xlink:href="poster-background.png"
-       clip-path="url(#clipPath2017)"
-       width="1200"
-       height="792.85071"
-       preserveAspectRatio="none"
-       id="image4605"
-       x="-5.5"
+       transform="translate(0,34.395852)"
        y="-487.91309"
-       transform="translate(0,34.395852)" />
+       x="-5.5"
+       id="image4605"
+       preserveAspectRatio="none"
+       height="792.85071"
+       width="1200"
+       clip-path="url(#clipPath2017)" />
     <rect
        style="display:inline;fill:#036ca1;fill-opacity:1;stroke-width:1.09539807"
        id="rect6465"
@@ -8676,7 +8677,7 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
            y="585.40808"
            x="45.252747"
-           sodipodi:role="line"># Plot an image of the builtin Earth relief data using automatic hill-shading</tspan><tspan
+           sodipodi:role="line"># Plot an image of the built in Earth relief data using automatic hill-shading</tspan><tspan
            id="tspan2617"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
            y="600.75787"
@@ -8846,30 +8847,34 @@
     <g
        id="g6867"
        transform="translate(-7.7134464e-6,4.532362)">
-      <text
-         id="text4663"
-         y="88.102966"
-         x="327.92313"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111259px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-size:14.11111259px;fill:#444444;fill-opacity:1;stroke-width:0.26458332"
-           y="88.102966"
+      <g
+         id="g9496"
+         transform="translate(-16.79483)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111259px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.26458332"
            x="327.92313"
-           id="tspan4661"
-           sodipodi:role="line">Leonardo Uieda <tspan
-   id="tspan2641"
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.11111259px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'">and Paul Wessel</tspan></tspan></text>
-      <text
-         id="text2651"
-         y="88.102966"
-         x="540.95013"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.36987972px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.20924699"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#666666;stroke-width:0.20924699"
            y="88.102966"
+           id="text4663"><tspan
+             sodipodi:role="line"
+             id="tspan4661"
+             x="327.92313"
+             y="88.102966"
+             style="font-size:14.11111259px;fill:#444444;fill-opacity:1;stroke-width:0.26458332">Leonardo Uieda <tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.11111259px;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+   id="tspan2641">and Paul Wessel</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.36987972px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.20924699"
            x="540.95013"
-           id="tspan2649"
-           sodipodi:role="line">Depart. Geology &amp; Geophysics, SOEST, University of Hawai'i at Mānoa</tspan></text>
+           y="88.102966"
+           id="text2651"><tspan
+             sodipodi:role="line"
+             id="tspan2649"
+             x="540.95013"
+             y="88.102966"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#666666;stroke-width:0.20924699">Department of Geology &amp; Geophysics, SOEST, University of Hawai'i at Mānoa</tspan></text>
+      </g>
     </g>
     <g
        id="g2681"
@@ -8909,7 +8914,7 @@
          id="tspan4497"
          x="1352.2769"
          y="175.24449"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <rect
        style="display:inline;opacity:0.97000002;fill:none;fill-opacity:1;"
        id="rect4567"
@@ -8936,7 +8941,7 @@
            height="74"
            x="3711"
            y="579.58264" /></flowRegion><flowPara
-         id="flowPara4773"></flowPara></flowRoot>    <text
+         id="flowPara4773" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="962.55414"
@@ -8946,7 +8951,7 @@
          id="tspan4775"
          x="962.55414"
          y="230.60623"
-         style="stroke-width:0.26458332"></tspan><tspan
+         style="stroke-width:0.26458332" /><tspan
          sodipodi:role="line"
          x="962.55414"
          y="243.83539"
@@ -9001,7 +9006,7 @@
            id="tspan8778"
            sodipodi:role="line">Introduction</tspan></text>
       <flowRoot
-         transform="translate(2.1166672,5.2916667)"
+         transform="translate(-1.5874996,5.2916667)"
          id="flowRoot5018"
          style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.28222224"
          xml:space="preserve"><flowRegion
@@ -9016,7 +9021,9 @@
            id="flowPara5026"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;font-family:Barlow;-inkscape-font-specification:'Barlow Light'" /><flowPara
            id="flowPara5149"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;font-family:Barlow;-inkscape-font-specification:'Barlow Light'">GMT is an open-source software project that is widely used is the Earth Sciences. It is written in C and provides an API that other programs can access. The API has been used to create interfaces for Matlab and Julia. We are building a Python interface for GMT called </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;font-family:Barlow;-inkscape-font-specification:'Barlow Light'"><flowSpan
+   style="word-spacing:-0.5291667px"
+   id="flowSpan9554">GMT is</flowSpan> an open-source software project that is widely used in the Earth Sciences. It is written in C and provides an API that other programs can access. The API has been used to create interfaces for Matlab and Julia. We are building a Python interface for GMT called </flowPara><flowPara
            id="flowPara5151"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;font-family:Barlow;-inkscape-font-specification:'Barlow Light'">GMT/Python. The popularity of Python in geoscience</flowPara><flowPara
            id="flowPara5030"
@@ -9026,7 +9033,7 @@
            id="flowPara5034"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;font-family:Barlow;-inkscape-font-specification:'Barlow Light'">complement the existing Python </flowPara><flowPara
            id="flowPara5337"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;font-family:Barlow;-inkscape-font-specification:'Barlow Light'">tools with GMT's  30 years </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;font-family:Barlow;-inkscape-font-specification:'Barlow Light'">tools with GMT's  30+ years </flowPara><flowPara
            id="flowPara5207"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;font-family:Barlow;-inkscape-font-specification:'Barlow Light'">of experience.</flowPara></flowRoot>    </g>
     <g
@@ -9046,9 +9053,9 @@
       <flowRoot
          transform="translate(0.47531762,33.400997)"
          id="flowRoot5074"
-         style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:7.05555534px;line-height:0%;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+         style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:7.05555534px;line-height:0%;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.28222224;"
          xml:space="preserve"><flowRegion
-           style="text-align:start;text-anchor:start"
+           style="text-align:start;text-anchor:start;"
            id="flowRegion5076"><use
              height="100%"
              width="100%"
@@ -9057,33 +9064,35 @@
              y="0"
              x="0" /></flowRegion><flowPara
            id="flowPara5080"
-           style="line-height:1.29999995em;text-align:start;text-anchor:start" /><flowPara
+           style="line-height:1.29999995em;text-align:start;text-anchor:start;" /><flowPara
            id="flowPara5082"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;" /><flowPara
            id="flowPara5084"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;" /><flowPara
            id="flowPara5086"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;" /><flowPara
            id="flowPara5088"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;" /><flowPara
            id="flowPara5090"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start">1.    Develop a modern software library (Python 3.5+ and GMT6 only) .</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;">1.    Develop a modern software library (Python 3.5+ and GMT6 only) .</flowPara><flowPara
            id="flowPara5092"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start">2.   Make GMT easier to use and more accessible to new users.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;">2.   Make GMT easier to use and more accessible to new users.</flowPara><flowPara
            id="flowPara5094"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start">3.   Create an interface that is familiar to both Python and GMT users.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;">3.   Create an interface that is familiar to both Python and GMT users.</flowPara><flowPara
            id="flowPara5096"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start">4.   GMT/Python code should be readable and easy to understand. </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;">4.   GMT/Python code should be readable and easy to understand. </flowPara><flowPara
            id="flowPara5098"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start">5.   Integrate with the scientific Python libraries (numpy, pandas, etc).</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;">5.   Integrate with the scientific Python libraries (numpy, pandas, etc).</flowPara><flowPara
            id="flowPara5102"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start">6.   Support for Jupyter notebooks and web-based interactive plots</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;">6.   Support for Jupyter notebooks and web-based interactive<flowSpan
+   style="word-spacing:-0.26458333px"
+   id="flowSpan9566"> g</flowSpan>raphics.</flowPara><flowPara
            id="flowPara5367"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start">7.   Create and maintain complete documentation and automated tests.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;">7.   Create and maintain complete documentation and automated tests.</flowPara><flowPara
            id="flowPara5104"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start">8.   Provide a welcoming environment for new users and contributors.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;">8.   Provide a welcoming environment for new users and contributors.</flowPara><flowPara
            id="flowPara5106"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:justify;text-anchor:start" /></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.29999995em;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:start;text-anchor:start;" /></flowRoot>    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5278"
@@ -9094,7 +9103,7 @@
            height="70.710678"
            x="3818.3767"
            y="1525.3669" /></flowRegion><flowPara
-         id="flowPara5284"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5284" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5291"
        style="fill:black;fill-opacity:1;stroke:none;font-family:Roboto;font-style:normal;font-weight:normal;font-size:40px;line-height:1.3;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Roboto;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center"><flowRegion
@@ -9104,7 +9113,7 @@
            height="171.11984"
            x="3873.531"
            y="1572.036" /></flowRegion><flowPara
-         id="flowPara5297"></flowPara></flowRoot>    <g
+         id="flowPara5297" /></flowRoot>    <g
        id="g9489"
        transform="translate(0,5.8208333)">
       <rect
@@ -9148,13 +9157,13 @@
            id="flowPara5131"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:end;text-anchor:end" /><flowPara
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:end;text-anchor:end"
-           id="flowPara6869">GMT/Python is still in early stages of development. Around 70% of the low level functionality is implemented but GMT is a large project with many options and commands. GMT/Python is open-source and </flowPara><flowPara
+           id="flowPara6869">GMT/Python is under development and constantly evolving. About 70% of the low level functionality is implemented but GMT is a large project with many options and commands. GMT/Python is open-source and </flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:end;text-anchor:end"
            id="flowPara6873">we welcome the help of the Earth Science community. </flowPara><flowPara
            id="flowPara5307"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:end;text-anchor:end">Anyone can contribute, regardless of skill level. </flowPara><flowPara
            id="flowPara5270"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:end;text-anchor:end">We need ideas and opinions, not just code.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:end;text-anchor:end">We need your ideas and opinions, not just code.</flowPara><flowPara
            id="flowPara5415"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Barlow;-inkscape-font-specification:'Barlow Light';text-align:end;text-anchor:end">Visit our website to find out more: </flowPara><flowPara
            id="flowPara5417"
@@ -10820,6 +10829,6 @@
          id="tspan6424"
          x="1133.7573"
          y="465.12231"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
   </g>
 </svg>
