@@ -2741,8 +2741,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="1477.4458"
-     inkscape:cy="521.89802"
+     inkscape:cx="2298.8531"
+     inkscape:cy="2174.4134"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -2760,7 +2760,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2781,14 +2781,14 @@
     <image
        sodipodi:absref="/home/leo/talk/aogs2018-gmtpython/poster-background.png"
        xlink:href="poster-background.png"
-       clip-path="url(#clipPath2017)"
-       width="1200"
-       height="792.85071"
-       preserveAspectRatio="none"
-       id="image4605"
-       x="-5.5"
+       transform="translate(0,40.745853)"
        y="-487.91309"
-       transform="translate(0,40.745853)" />
+       x="-5.5"
+       id="image4605"
+       preserveAspectRatio="none"
+       height="792.85071"
+       width="1200"
+       clip-path="url(#clipPath2017)" />
     <rect
        style="display:inline;fill:#005c89;fill-opacity:1;stroke-width:1.09539807"
        id="rect6465"
@@ -2819,13 +2819,13 @@
      inkscape:label="foreground"
      style="display:inline">
     <rect
-       style="fill:#141414;fill-opacity:0.94117647;stroke:none;stroke-width:0.29802123;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#141414;fill-opacity:0.94117647;stroke:none;stroke-width:0.30606738;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4612"
        width="570"
-       height="280.48801"
+       height="295.83801"
        x="25.252747"
-       y="465.25925"
-       ry="9.2340145"
+       y="450.16199"
+       ry="9.7393551"
        rx="0" />
     <text
        xml:space="preserve"
@@ -2860,7 +2860,7 @@
          style="font-size:14.11111259px;fill:#444444;fill-opacity:1;stroke-width:0.26458332">Leonardo Uieda and Paul Wessel</tspan></text>
     <g
        id="g6830"
-       transform="translate(-4.2604904e-7,1.7987531)">
+       transform="translate(0.75798089,1.7987531)">
       <text
          id="text339624-3-2"
          y="798.03656"
@@ -4945,16 +4945,16 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:35.49277496px;line-height:0%;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.97000002;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.28394222"
        x="45.252747"
-       y="508.40598"
+       y="493.30917"
        id="text339624-6-2-06-3"><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="508.40598"
+         y="493.30917"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;opacity:0.92000002;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
          id="tspan11950-0"># GMT/Python was used generate the background for this poster</tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="523.7558"
+         y="508.659"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan8454"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#5fd7ff;fill-opacity:1;stroke-width:0.28394222"
@@ -4963,7 +4963,7 @@
    id="tspan2727"># Load the GMT/Python library</tspan></tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="539.10565"
+         y="524.00879"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan8425"><tspan
    style="font-weight:bold;fill:#5fd7ff;fill-opacity:1;stroke-width:0.28394222"
@@ -4974,7 +4974,12 @@
    id="tspan2729"># Use pandas to read and store the data</tspan> </tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="554.45544"
+         y="539.35864"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
+         id="tspan2604"># Load GPS velocities from the Plate Boundary Observatory (PBO)</tspan><tspan
+         sodipodi:role="line"
+         x="45.252747"
+         y="554.70844"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan8429">data = pd.read_cs<tspan
    style="font-weight:normal;stroke-width:0.28394222"
@@ -4982,37 +4987,37 @@
    style="font-weight:normal;fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
    id="tspan2785">'data/pbo_gps_velocity.csv'</tspan><tspan
    style="font-weight:normal;stroke-width:0.28394222"
-   id="tspan2889">)</tspan></tspan><tspan
+   id="tspan2889">)  </tspan></tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="569.80524"
+         y="570.05823"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan8445" /><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="569.80524"
+         y="570.05823"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2591" /><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="569.80524"
+         y="570.05823"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2593" /><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="569.80524"
+         y="570.05823"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2595">fig = gmt.Figure()  <tspan
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
    id="tspan2731"># Start a new figure</tspan></tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="585.15509"
+         y="585.40808"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2597"># Plot an image of the builtin topography data with automatic hill-shading</tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="600.50488"
+         y="600.75787"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2617">fig.grdimage(<tspan
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
@@ -5021,7 +5026,7 @@
    id="tspan2793">'G-138/40/1000/20/40/-10/142/100/20i'</tspan>, </tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="615.85474"
+         y="616.10767"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2603">             region=[<tspan
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#44aa00;fill-opacity:1;stroke-width:0.28394222"
@@ -5038,12 +5043,12 @@
    id="tspan2797">'+a120+nt1.5'</tspan>)</tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="631.20453"
+         y="631.45752"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2605"># Fill in the continents with a gray color and don't plot lakes and rivers</tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="646.55432"
+         y="646.80731"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2607">fig.coast(land=<tspan
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
@@ -5054,19 +5059,19 @@
    id="tspan2799">'0/0/1'</tspan>)</tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="661.90417"
+         y="662.1571"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2609"># Plot the velocity as vectors given an azimuth and length</tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="677.25397"
+         y="677.50696"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2613">fig.plot(x=data.lon, y=data.lat, direction=(data.azimuth, data.velocity*<tspan
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#44aa00;stroke-width:0.28394222"
    id="tspan2853">50</tspan>), </tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="692.60376"
+         y="692.85675"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2629">         style=<tspan
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
@@ -5077,33 +5082,33 @@
    id="tspan2809">'thinnest,#eeeeee,solid'</tspan>)</tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="707.95361"
+         y="708.2066"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#34e2e2;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2633"># Save the figure as a high-resolution transparent png file</tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="723.30341"
+         y="723.5564"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan2615">fig.savefig(<tspan
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#ad7fa8;fill-opacity:1;stroke-width:0.28394222"
    id="tspan2823">'poster-background.png'</tspan>, transparent=<tspan
    style="font-weight:bold;fill:#5fd7ff;fill-opacity:1;stroke-width:0.28394222"
    id="tspan2757">True</tspan>, dpi=<tspan
-   style="font-weight:300;fill:#44aa00;stroke-width:0.28394222;-inkscape-font-specification:'Roboto Mono Light';font-family:'Roboto Mono';font-style:normal;font-stretch:normal;font-variant:normal"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';fill:#44aa00;stroke-width:0.28394222"
    id="tspan2811">1600</tspan>)</tspan><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="738.6532"
+         y="738.90619"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan8439" /><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="738.6532"
+         y="738.90619"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan8433" /><tspan
          sodipodi:role="line"
          x="45.252747"
-         y="738.6532"
+         y="738.90619"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.64783192px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Light';text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:0.28394222"
          id="tspan8427" /></text>
     <text
@@ -9038,7 +9043,7 @@
          id="tspan8827">These features will help make GMT more accessible to students and professional geoscientists who lack an extensive background in Unix tools and shell scripting.</tspan></text>
     <g
        id="g2920"
-       transform="translate(0,-9.998016)">
+       transform="translate(0,-25.095276)">
       <rect
          transform="matrix(1.0178701,0,0,1.0001788,-0.45133332,10.716973)"
          clip-path="url(#clipPath2658)"
@@ -9054,9 +9059,9 @@
          id="text2637"
          y="488.09689"
          x="246.52376"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';fill:#666666;fill-opacity:1;stroke-width:0.26458332;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';fill:#666666;fill-opacity:1;stroke-width:0.26458332"
            y="488.09689"
            x="246.52376"
            id="tspan2635"
@@ -9094,5 +9099,16 @@
            height="96"
            x="1206"
            y="1916.5825" /></flowRegion><flowPara
-         id="flowPara2725"></flowPara></flowRoot>  </g>
+         id="flowPara2725" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="496.33289"
+       y="760.93616"
+       id="text2608"><tspan
+         sodipodi:role="line"
+         x="496.33292"
+         y="760.93616"
+         style="font-size:7.05555582px;text-align:end;text-anchor:end;fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan2612">GPS data provided by UNAVCO through the GAGE Facility with support from NSF and NASA under NSF Cooperative Agreement No. EAR-1261833</tspan></text>
+  </g>
 </svg>
