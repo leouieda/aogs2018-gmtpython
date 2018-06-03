@@ -46,7 +46,8 @@ code can be accessed through the website http://www.gmtpython.xyz.
 
 ## Notes
 
-I used the fonts Roboto Mono for code and Roboto for headings and text.
+I used the fonts Roboto Mono for code, Roboto for headings, and Barlow for
+other text.
 All can be downloaded from [Google Fonts](https://fonts.google.com/).
 
 The poster was made using [Inkscape](https://inkscape.org/).
