@@ -14,6 +14,7 @@ Poster presented at the Asia Oceania Geosciences Society
 |Room|Ballroom B|
 |Download|doi:[10.6084/m9.figshare.6399944](https://doi.org/10.6084/m9.figshare.6399944)|
 
+![A preview of the poster.](poster.png)
 
 ## Abstract
 
